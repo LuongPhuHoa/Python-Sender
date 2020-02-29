@@ -1,4 +1,4 @@
-<h1>X Python Sender</h1>
+<h1>Python Mass Sender</h1>
 <p><a href="https://github.com/MisterSpyx/Python-Sender-/"></a>
 <a href="https://github.com/MisterSpyx/Python-Sender-/r"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/MisterSpyx/Python-Sender-/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
@@ -6,7 +6,8 @@
 
 <h2>Smtp Sender</h2>
 
-<img src="https://i.imgur.com/4zwfniZ.png" data-canonical-src="https://i.imgur.com/JqyAirM.png" style="max-width:100%;">
+<img src="https://i.imgur.com/4zwfniZ.png" data-canonical-src="https://i.imgur.com/4zwfniZ.png" style="max-width:100%;">
+<img src="https://i.imgur.com/JqyAirM.png" data-canonical-src="https://i.imgur.com/JqyAirM.png" style="max-width:100%;">
 
 <h2>Simple brute force script </h2>
 <h2>Usage</h2>
