@@ -56,8 +56,9 @@ Open CMD and type the following commands:
 cd Desktop/Python-Sender-/
 smtp.py
 ```
-<h2>Version</h2>
-<strong>Current version is 1.3</strong>
+<h2>Version 1</h2>
+<strong>Current version is 1</strong>
 <strong>What's New </strong>
 <p>• speed up<p>
 <p>• Bug fixes<p>
+https://www.facebook.com/007MrSpy
