@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/4zwfniZ.png" data-canonical-src="https://i.imgur.com/4zwfniZ.png" style="max-width:100%;">
 <img src="https://i.imgur.com/JqyAirM.png" data-canonical-src="https://i.imgur.com/JqyAirM.png" style="max-width:100%;">
 
-<h2>Simple brute force script </h2>
+<h2>Mass Advanced Python Smtp Sender </h2>
 <h2>Usage</h2>
 
 <table>
