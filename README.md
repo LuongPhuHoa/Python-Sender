@@ -41,10 +41,12 @@ python mass.py
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-pip install python
+pip2 install python2
+pip2 install colorama
+pkg install git
 git clone https://github.com/MisterSpyx/Python-Sender.git
-cd Python-Sender-/
-python mass.py
+cd Python-Sender/
+python2 mass.py
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
