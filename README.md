@@ -11,7 +11,8 @@
 
 <h2>Mass Advanced Python Smtp Sender </h2>
 <h2>Usage</h2>
-
+<h3>Smtp Format : server.com|25|user|pass</h3>
+<h1>put ur maillist in the same path of mass.py</h1>
 <table>
 <thead>
 <tr>
@@ -63,4 +64,5 @@ smtp.py
 <strong>What's New </strong>
 <p>• speed up<p>
 <p>• Bug fixes<p>
+  <h1>More Tools In My Facebook</h1>
 https://www.facebook.com/007MrSpy
